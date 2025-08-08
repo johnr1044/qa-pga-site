@@ -6,7 +6,7 @@ This is a Playwright-based end-to-end test suite for validating core functionali
 
 ---
 
-## 📌 Tech Stack
+##  Tech Stack
 
 - [Playwright](https://playwright.dev/)
 - VS code 
@@ -30,7 +30,7 @@ This is a Playwright-based end-to-end test suite for validating core functionali
 
 ### 1. Clone the repo
 
-```bash
+bash
 git clone https://github.com/johnr1044/qa-pga-site
 cd qa-pga-site
 
