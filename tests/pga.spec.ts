@@ -11,7 +11,7 @@ test('search for Scottie Scheffler and open profile', async ({ page }) => {
   await players.searchForPlayer('Scottie Scheffler');
   const h1 = await players.getProfileHeaderText();
 
-  // Expect a title "to contain" a substring.
+ 
   await expect(h1).toContain('ScottieScheffler');
 });
 
